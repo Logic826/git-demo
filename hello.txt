@@ -14,3 +14,5 @@ add-on github test
 add-by clone test
 !!!!!!!!!!!!
 add-by github ssh test
+!!!!!!!!!!!!
+add-ssh push test
