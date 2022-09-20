@@ -10,3 +10,5 @@ add-version master test
 add-version hot-fix test
 !!!!!!!!!!!!
 add-on github test
+!!!!!!!!!!!!
+add-by clone test
