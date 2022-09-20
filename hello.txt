@@ -12,3 +12,5 @@ add-version hot-fix test
 add-on github test
 !!!!!!!!!!!!
 add-by clone test
+!!!!!!!!!!!!
+add-by github ssh test
